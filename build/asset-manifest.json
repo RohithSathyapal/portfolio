@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b480872.css",
+    "main.js": "/static/js/main.0508f9ee.js",
+    "static/media/ShoeWebsite.png": "/static/media/ShoeWebsite.6275ef661ac0ce542d7c.png",
+    "static/media/about.png": "/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/resume.jpg": "/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "index.html": "/index.html",
+    "main.7b480872.css.map": "/static/css/main.7b480872.css.map",
+    "main.0508f9ee.js.map": "/static/js/main.0508f9ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b480872.css",
+    "static/js/main.0508f9ee.js"
+  ]
+}
